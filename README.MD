@@ -1,18 +1,14 @@
 # Netflix Coding Challenge
 
 ##How to Start the App
-I was having a bit of trouble getting "npm-start" to run webpack and my node server at the same time, so this process is inelegant (would definitely fix given a bit more time for research).
 
 To start the app:
 
 1. Clone down from GitHub.
 2. Open terminal window and navigate to root directory.
 3. Type "npm install" and push enter. Dependencies will start to install.
-4. Type "webpack" and push enter. Files should start compiling.
-5. Open a new terminal window.
-6. Navigate to 'server' folder under root directory.
-7. Type "node server.js" and push enter. This should launch the server.
-8. Open browser and go to "localhost:3000". You will see the app! :)
+4. Type "npm start" and push enter. Files will compile and server will launch.
+5. Open browser and go to "localhost:3000". You will see the app! :)
 
 ## Technologies Used
 I used 4 main external libraries: Material-UI, React, Redux, and Node. I also used some supporting modules (middleware, etc).

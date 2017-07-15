@@ -1,10 +1,11 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var axios = require('axios');
+var path = require('path');
 
 var app = express()
 
-app.use(express.static('../app/public'))
+app.use(express.static(path.join(__dirname, '..','app','public')))
 
 app.use(bodyParser.json())
 
