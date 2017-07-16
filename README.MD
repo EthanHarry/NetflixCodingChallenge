@@ -13,7 +13,7 @@ To start the app:
 ## Technologies Used
 I used 4 main external libraries: Material-UI, React, Redux, and Node. I also used some supporting modules (middleware, etc).
 
-##General Process
+## General Process
 I first thought about the app as a whole and determined what data I would need, and what views would represent that data.
 
 The App broke down into 2 main components: a search form and a "list" view where the search results would be rendered.
