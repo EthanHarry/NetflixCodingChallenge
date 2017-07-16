@@ -1,6 +1,6 @@
 # Netflix Coding Challenge
 
-##How to Start the App
+## How to Start the App
 
 To start the app:
 
